@@ -1,9 +1,12 @@
 /*
-   IRremote: IRsendDemo - demonstrates sending IR codes with IRsend
-   An IR LED must be connected to Arduino PWM pin 3.
-   Version 0.1 July, 2009
-   Copyright 2009 Ken Shirriff
-   http://arcfn.com
+   Based on the following example code:
+      IRremote: IRsendDemo - demonstrates sending IR codes with IRsend
+      An IR LED must be connected to Arduino PWM pin 3.
+      Version 0.1 July, 2009
+      Copyright 2009 Ken Shirriff
+      http://arcfn.com
+   
+   Parses incoming code and has a looping delay in order to turn lights on (or whatever action) at the correct time.
 */
 
 #include <IRremote.h>
