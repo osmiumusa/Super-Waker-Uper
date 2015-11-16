@@ -1,4 +1,4 @@
-# Super-Waker-Uper
+# Super-Waker-Upper
 I wrote this app in conjunction with my blog post [here](http://undocumented-code.blogspot.com/2015/11/how-to-make-your-android-phone-really.html).
 It requires a Blunonano Arduino board, Android Studio, and a Android Device running 4.0+ with BLE.
 
