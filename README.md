@@ -9,3 +9,5 @@ This code inherits the GPLv3 liscense from [DFRobot's sample code](https://githu
 This project also uses code from [Android Examples](http://android--examples.blogspot.com/2015/04/timepickerdialog-in-android.html). 
 
 The Arduino Code is also included in this repository. After you install the IR Library, you can upload it to your Blunonano.
+
+Also, please ignore the embarassing spelling error throughout the project. I know, I know. I was typing too fast and by the time I noticed it it was too late.
